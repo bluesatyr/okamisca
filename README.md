@@ -1,0 +1,2 @@
+# okamisca
+Okami Website
