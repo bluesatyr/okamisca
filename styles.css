@@ -117,6 +117,10 @@ footer ul i {
     color: darkred;
 }
 
+.content {
+    padding-top: 5px;
+}
+
 #camping, #coming-events {
     display: flex;
     flex-direction: column;
